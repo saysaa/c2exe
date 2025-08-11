@@ -4,3 +4,5 @@ ________________________________________________
 
 **Important!**
 >> To use c2exe, you must place c2exe.exe in the same directory as your .c file.
+
+Portable program not a installer.
