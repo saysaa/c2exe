@@ -1,0 +1,3 @@
+C:/Users/l-primoo/Desktop/Dev/c2exe/cmake-build-debug/CMakeFiles/c2exe.dir
+C:/Users/l-primoo/Desktop/Dev/c2exe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/l-primoo/Desktop/Dev/c2exe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
